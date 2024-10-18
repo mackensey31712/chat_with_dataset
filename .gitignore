@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+pyvenv.cfg
+pandasai.log
+code_csv_xlsx.txt
+code.txt
+app.py
+/share/
+/Scripts/
+/Lib/
+/include/
+/exports/
+/etc/
+/cache/
